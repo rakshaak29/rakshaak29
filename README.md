@@ -13,8 +13,6 @@
 > Building at the intersection of Web3 + AI
 > Exploring real-time systems, decentralized apps & intelligent UIs
 
-<br>
-
 ⚙️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,react,nodejs,cpp,flutter,bootstrap,vscode,dart" />
